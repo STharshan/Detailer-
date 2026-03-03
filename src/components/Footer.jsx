@@ -126,7 +126,7 @@ const Footer = () => {
             </p>
             <button
               onClick={() => setShowPopup(false)}
-              className="bg-primary text-white px-6 py-2 rounded-full font-semibold hover:opacity-90 transition"
+              className="bg-primary text-black px-6 py-2 rounded-full font-semibold hover:opacity-90 transition"
             >
               Got it
             </button>
